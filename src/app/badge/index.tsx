@@ -55,8 +55,8 @@ export function Badge() {
                 source={{uri: "https://github.com/dyksonn.png"}}
               />
 
-              <Text style={styles.name}>Rodrigo Gonçalves</Text>
-              <Text style={styles.email}>rodrigo@email.com</Text>
+              <Text style={styles.name}>Dykson Santos</Text>
+              <Text style={styles.email}>dykson.tech@email.com</Text>
             </View>
           </ImageBackground>
         </View>
